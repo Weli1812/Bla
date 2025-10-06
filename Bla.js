@@ -10,12 +10,13 @@ const student = [
   },
 
   {
-    name : 'Lana',
+    name : 'Mo',
     gpa : '0.75',
   }
 ];
 
 console.log(student[1].name);
+console.log(student[2].name);
 
 
 
