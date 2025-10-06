@@ -10,7 +10,7 @@ const student = [
   },
 
   {
-    name : 'Mo',
+    name : 'Merna',
     gpa : '0.75',
   }
 ];
